@@ -1,0 +1,8 @@
+
+PACKAGE: https://pypi.python.org/pypi/pycairo
+
+https://www.cairographics.org/pycairo/ was changed to point to this repository
+(https://github.com/pygobject/pycairo)
+
+Please add me as an owner to the pycairo package. My user ID is "lazka"
+(https://pypi.org/user/lazka/)
